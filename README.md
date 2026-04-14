@@ -1,6 +1,4 @@
-# JanSahayak AI 🇮🇳
-
-> **JanSahayak AI – A multilingual AI assistant that helps citizens understand and access government welfare schemes through conversational voice and chat.**
+ A multilingual AI assistant that helps citizens understand and access government welfare schemes through conversational voice and chat.**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Hackathon](https://img.shields.io/badge/Status-Hackathon%20Submission-orange)
@@ -108,18 +106,3 @@ JanSahayak-AI/
     ```bash
     npm start
     ```
-
----
-
-## 👥 Team Members
-
-| Name | Role | Responsibilities |
-| :--- | :--- | :--- |
-| **Asna Abdul Kareem** | Frontend & UX Developer | Mobile app development, user interface design, WhatsApp integration |
-| **Ritesh Bonthalakoti** | Backend & Infrastructure Developer | API development, AI integration, database management, deployment |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
